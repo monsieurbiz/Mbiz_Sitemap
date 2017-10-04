@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * This file is part of Mbiz_Sitemap for Magento.
+ *
+ * @license See LICENSE file distributed with this source code.
+ * @author Jacques Bodin-Hullin <@jacquesbh> <j.bodinhullin@monsieurbiz.com>
+ * @category Mbiz
+ * @package Mbiz_Sitemap
+ * @copyright Copyright (c) 2017 Monsieur Biz (http://monsieurbiz.com/)
+ */
+-->
+<config>
+    <modules>
+        <Mbiz_Sitemap>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Mbiz_Sitemap>
+    </modules>
+</config>
